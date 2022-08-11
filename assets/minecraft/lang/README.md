@@ -1,0 +1,1 @@
+`*` in `.json` files means that the lines are either going to be **deleted** or **changed**
