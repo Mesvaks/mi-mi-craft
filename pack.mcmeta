@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "description": "§3This meme resoursepack was created by BarsTiger for 1.18 version",
+        "pack_format": 8
+    },
+	"language": {
+		"me_me": {
+			"name": "Memish",
+			"region": "Keklandia",
+			"bidirectional": false
+    }
+  }
+}
