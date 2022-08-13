@@ -1,10 +1,10 @@
 {
     "pack": {
-        "description": "§3This meme resoursepack was created by BarsTiger for 1.18 version",
+        "description": "§3Created By Yousef AKA Behesht",
         "pack_format": 8
     },
-	"language": {
-		"me_me": {
+	"#language": {
+		"mi_mi": {
 			"name": "Memish",
 			"region": "Keklandia",
 			"bidirectional": false
